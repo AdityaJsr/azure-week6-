@@ -1,0 +1,1 @@
+This file has been uploaded to azure portal via Python.

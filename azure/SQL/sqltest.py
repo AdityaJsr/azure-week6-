@@ -3,7 +3,7 @@
 title - This is a python script to simply connect to Azure mysql cluster.
 author name - Aditya Kumar
 creation time -  9 April 2021 
-modified time - 30 April2021
+modified time - 30 April 2021
 
 """
 import pyodbc

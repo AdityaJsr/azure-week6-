@@ -1,3 +1,13 @@
+  
+"""
+title - This is a Python Script to perform functionality on Cosmos DB.
+author name - Aditya Kumar
+creation time - 24 ‎April ‎2021
+modified time - 24 ‎April ‎2021
+
+"""
+
+
 from azure.cosmos import exceptions, CosmosClient, PartitionKey
 import family
 from decouple import config

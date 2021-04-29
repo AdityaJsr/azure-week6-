@@ -1,3 +1,13 @@
+  
+"""
+title - This is python script to depict the CRUD operation on BLOB storage of Microsoft Azure.
+author name - Aditya Kumar
+creation time - 8 ‎April ‎2021
+modified time - ‎30 ‎April ‎2021 ‏‎
+
+"""
+
+
 from azure.storage.blob import BlobServiceClient
 from azure.storage.blob import ContainerClient
 from azure.storage.blob import BlobClient
